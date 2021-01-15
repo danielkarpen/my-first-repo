@@ -20,3 +20,13 @@ Some of my other skills/hobbies are:
 
 [Some of the music I have worked on can be found here on SoundCloud!](https://soundcloud.com/hirollers-1)
 [![](https://i.pinimg.com/originals/22/17/d1/2217d191ef604aebe0530f8c2c5f6b92.gif)](https://soundcloud.com/hirollers-1)
+
+This is how you declare a variable: `const x = 3`
+
+```javascript
+const x = 3;
+console.log(x + 100)
+```
+```markdown
+# This is a Heading
+```
